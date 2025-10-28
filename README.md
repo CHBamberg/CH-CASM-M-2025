@@ -17,3 +17,8 @@ Last update: **19.10.2025**
 	- Part 2
 		- [IPython Notebook (ipynb)](CH-CASM-M-01-Audio-1-Seminar-2.ipynb)
 		- [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-01-Audio-1-Seminar-2.ipynb)
+
+- 02 - Fundamentals of Audio Processing (2/2) 
+	- [IPython Notebook (ipynb)](CH-CASM-M-02-Audio-2-Seminar-1.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-02-Audio-2-Seminar-1.ipynb)
+
