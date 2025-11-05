@@ -22,3 +22,7 @@ Last update: **19.10.2025**
 	- [IPython Notebook (ipynb)](CH-CASM-M-02-Audio-2-Seminar-1.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-02-Audio-2-Seminar-1.ipynb)
 
+- 03 - Fundamentals of Machine Learning
+	- [IPython Notebook (ipynb)](CH-CASM-M-03-Machine_Learning-Seminar.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-03-Machine_Learning-Seminar.ipynb)
+
