@@ -26,3 +26,13 @@ Last update: **19.10.2025**
 	- [IPython Notebook (ipynb)](CH-CASM-M-03-Machine_Learning-Seminar.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-03-Machine_Learning-Seminar.ipynb)
 
+- 04 - Fundamentals of Deep Learning (1/2)
+  - Part 1
+   	 - [IPython Notebook (ipynb)](CH-CASM-M-04-Deep_Learning-Seminar-1.ipynb)
+     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-04-Deep_Learning-Seminar-1.ipynb)
+   - Part 2
+	   - [IPython Notebook (ipynb)](CH-CASM-M-04-Deep_Learning-Seminar-2.ipynb)
+     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-04-Deep_Learning-Seminar-2.ipynb)
+
+
+
