@@ -34,5 +34,9 @@ Last update: **19.10.2025**
 	   - [IPython Notebook (ipynb)](CH-CASM-M-04-Deep_Learning-Seminar-2.ipynb)
      - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-04-Deep_Learning-Seminar-2.ipynb)
 
+- 05 - Music Tagging
+	- [IPython Notebook (ipynb)](CH-CASM-M-05-Music_Tagging-Seminar.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-05-Music_Tagging-Seminar.ipynb)
+
 
 
