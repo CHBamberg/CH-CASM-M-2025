@@ -6,7 +6,7 @@ Prof. Dr. Jakob Abeßer
 
 jakob.abesser@uni-bamberg.de
 
-Last update: **19.10.2025**
+Last update: **09.12.2025**
 
 ## Jupyter Notebooks (Seminar)
 
@@ -45,6 +45,10 @@ Last update: **19.10.2025**
 - 07 - Rhythmic Analysis
 	- [IPython Notebook (ipynb)](CH-CASM-M-07-Rhythmic_Analysis-Seminar.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-07-Rhythmic_Analysis-Seminar.ipynb)
+
+- 08 - Harmonic Analysis
+	- [IPython Notebook (ipynb)](CH-CASM-M-08-Harmonic_Analysis-Seminar.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-08-Harmonic_Analysis-Seminar.ipynb)
 
 
 	
