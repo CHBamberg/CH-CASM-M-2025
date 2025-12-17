@@ -52,7 +52,7 @@ Last update: **09.12.2025**
 
 - 09 - Music Transcription 1/2
 	- [IPython Notebook (ipynb)](CH-CASM-M-09-Music_Transcription_1-Seminar.ipynb)
-    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-09-Music_Transcription_1-Seminar.ipynb.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-09-Music_Transcription_1-Seminar.ipynb)
 
 
 	
