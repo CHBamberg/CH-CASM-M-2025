@@ -62,6 +62,10 @@ Last update: **09.12.2025**
 	- [IPython Notebook (ipynb)](CH-CASM-M-11-Sound_Event_Detection-Seminar.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-11-Sound_Event_Detection-Seminar.ipynb)
 
+- 12 - Acoustic Scene Classification
+	- [IPython Notebook (ipynb)](CH-CASM-M-12-Acoustic_Scene_Classification.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-12-Acoustic_Scene_Classification.ipynb)
+
 
 	
 
