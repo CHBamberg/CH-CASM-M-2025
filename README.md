@@ -66,6 +66,10 @@ Last update: **09.12.2025**
 	- [IPython Notebook (ipynb)](CH-CASM-M-12-Acoustic_Scene_Classification.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-12-Acoustic_Scene_Classification.ipynb)
 
+- 13 - Acoustic Anomaly Detection
+	- [IPython Notebook (ipynb)](CH-CASM-M-13-Acoustic_Anomaly_Detection.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2025/blob/main/CH-CASM-M-13-Acoustic_Anomaly_Detection.ipynb)
+
 
 	
 
